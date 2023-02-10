@@ -9,8 +9,3 @@
 
 
 
-
-
-
-
-**Author: Abd Al-Rahman Odeh.**
